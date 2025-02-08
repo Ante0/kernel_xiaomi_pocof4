@@ -1,1 +1,4 @@
 
+[submodule "KernelSU-Next"]
+	path = KernelSU-Next
+	url = https://github.com/Ante0/KernelSU-Next
